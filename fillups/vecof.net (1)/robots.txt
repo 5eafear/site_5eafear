@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: /danpay.php
-Disallow: /sucpay.php
